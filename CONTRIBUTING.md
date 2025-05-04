@@ -11,5 +11,5 @@ Please follow these simple guidelines to contribute:
 
 2. **Clone your fork locally**
    ```bash
-   git clone https://github.com/<your-username>/simple-interest-calculator.git
+   git clone https://github.com/<Muhfees>/simple-interest-calculator.git
    cd simple-interest-calculator
